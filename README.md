@@ -1,44 +1,29 @@
-# Nome do Projeto
-Airbnb - EDA, tratamento e modelagem
-
-## Instalações Necessárias
-
-Este projeto requer *Python* e as seguintes bibliotecas Python instaladas:
-
-- [NumPy](http://www.numpy.org/)
+# Airbnb
+Airbnb is a renowned platform that allows homeowners and apartment owners to offer their properties for short-term stays to guests. With its convenience and flexibility, it has become a preferred option among travelers. In this article, we will delve into the Airbnb Seattle dataset and address three key business questions mentioned below;
+Q1: In which months does price variation usually occur? and at what times do prices remain constant?<br/>
+Q2: Where are most of the accommodations concentrated in price variations? <br/>
+Q3: How well can we predict the type of cancellation policy for bookings?
+# Highlights
+To have a general overview of the findings and observations, read the article I developed: [What is the best time to look for accommodations in Boston via Airbnb?](<Extracted URL content from url:  https://medium.com/p/bca5dbee77dd>)
+## Necessary Installations
+This project requires Python and the following Python libraries installed:
+- [NumPy](<Extracted URL content from url:  http://www.numpy.org/>)
 - [Pandas](http://pandas.pydata.org)
-- [matplotlib](http://matplotlib.org/)
-- [scikit-learn](http://scikit-learn.org/stable/)
-
-Você também precisará ter software instalado para rodar e executar um [Jupyter Notebook](http://ipython.org/notebook.html)
-
-Se você não tem Python instalado ainda, é altamente recomendado que você instale a distribuição Python [Anaconda](http://continuum.io/downloads), que já possui a maioria dos pacotes instalados. 
-
-## Motivação do Projeto
-
-Este projeto foi criado para explorar e entender o mercado de aluguel de curto prazo em Boston, usando dados do Airbnb. O objetivo é responder a três perguntas principais: Em quais meses a variação de preço geralmente ocorre? Onde estão concentradas a maioria das acomodações em variações de preço? Quão bem podemos prever o tipo de política de cancelamento para reservas?
-
-## Descrições de Arquivos
-
-A pasta do projeto contém os seguintes arquivos:
-
-- `Airbnb - EDA, tratamento e modelagem (3).ipynb`: Este é o arquivo principal onde eu realizei a análise do projeto.
-- `dados-airbnb/calendar.csv`, `dados-airbnb/listings.csv`, `dados-airbnb/reviews.csv`: Os conjuntos de dados que eu usei para este projeto.
-- `README.md`: Este arquivo, uma descrição do projeto.
-
-## Como Interagir com o Projeto
-
-Para interagir com o projeto, você precisará seguir os seguintes passos:
-
-1. Instale as dependências necessárias.
-2. Baixe os arquivos do projeto.
-3. Abra o arquivo Jupyter Notebook.
-4. Execute todas as células do notebook.
-
-## Donos/Agradecimentos
-
-Este projeto foi criado por *seu nome*. Agradeço a *Inside Airbnb* por fornecer os dados para este projeto.
-
-## Contato
-
-Se você quiser entrar em contato comigo, pode me enviar um e-mail para *seu endereço de e-mail* ou me seguir no [Twitter](https://twitter.com/seu_usuario_no_twitter).
+- [matplotlib](<Extracted URL content from url:  http://matplotlib.org/>)
+- [scikit-learn](<Extracted URL content from url:  http://scikit-learn.org/stable/>)
+You will also need to have software installed to run and execute a [Jupyter Notebook](<Extracted URL content from url:  http://ipython.org/notebook.html>)
+If you do not have Python installed yet, it is highly recommended that you install the Python distribution [Anaconda](<Could not extract content from url: http://continuum.io/downloads because 404 HTTP code>), which already has most of the packages installed.
+## Project Motivation
+This project was created to explore and understand the short-term rental market in Boston, using Airbnb data. The goal is to answer three main questions: In which months does price variation usually occur? Where are most of the accommodations concentrated in price variations? How well can we predict the type of cancellation policy for bookings?
+## File Descriptions
+The project folder contains the following files:
+- Aairbnb_analysis_and_modeling.ipynb: This is the main file where I conducted the project analysis and modeling.
+- airbnb-data/calendar.csv, airbnb-data/listings.csv, airbnb-data/reviews.csv: The datasets that I used for this project.
+## How to Interact with the Project
+To interact with the project, you will need to follow the following steps:
+1. Install the necessary dependencies.
+2. Download the project files.
+3. Open the Jupyter Notebook file.
+4. Run all the cells in the notebook.
+## Owners/Acknowledgments
+This project was created by me. I thank Inside Airbnb for providing the data for this project.
