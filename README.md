@@ -4,7 +4,7 @@ Q1: In which months does price variation usually occur? and at what times do pri
 Q2: Where are most of the accommodations concentrated in price variations? <br/>
 Q3: How well can we predict the type of cancellation policy for bookings?
 # Highlights
-To have a general overview of the findings and observations, read the article I developed: [What is the best time to look for accommodations in Boston via Airbnb?](<https://medium.com/the-mission/this-new-data-will-make-you-rethink-how-you-write-headlines-751358f6639a>)
+To have a general overview of the findings and observations, read the article I developed: [What is the best time to look for accommodations in Boston via Airbnb?](https://medium.com@escrevenataliawhat-is-the-best-time-to-look-for-accommodations-in-boston-via-airbnb-bca5dbee77dd)
 ## Necessary Installations
 This project requires Python and the following Python libraries installed:
 - [NumPy](<Extracted URL content from url:  http://www.numpy.org/>)
