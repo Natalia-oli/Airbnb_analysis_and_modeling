@@ -28,3 +28,7 @@ To interact with the project, you will need to follow the following steps:
 4. Run all the cells in the notebook.
 ## Owners/Acknowledgments
 This project was created by me. I thank Inside Airbnb for providing the data for this project.
+
+
+e-mail: nataliaoliveira2@outlook.com
+
