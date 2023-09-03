@@ -1,5 +1,14 @@
-# Nome do Projeto
-Airbnb - EDA, tratamento e modelagem
+# Airbnb 
+Airbnb is a renowned platform that allows home and apartment owners to offer their properties for short-term stays to guests. With its convenience and flexibility, it has emerged as a preferred option among travelers. In this article, we will delve into the Airbnb Seattle dataset and address three key business questions mentioned below;
+
+Q1: In which months does price variation usually occur? and at what times do prices remain constant?<br/>
+
+Q2: Where are most of the accommodations concentrated in price variations? <br/>
+
+Q3: How well can we predict the type of cancellation policy for bookings?
+
+# Highlighs 
+Para ter um panorama geral dos achados e constatações, leia o artigo que desenvolvi: [What is the best time to look for accommodations in Boston via Airbnb?](https://medium.com/p/bca5dbee77dd)
 
 ## Instalações Necessárias
 
@@ -24,7 +33,6 @@ A pasta do projeto contém os seguintes arquivos:
 
 - `Airbnb - EDA, tratamento e modelagem (3).ipynb`: Este é o arquivo principal onde eu realizei a análise do projeto.
 - `dados-airbnb/calendar.csv`, `dados-airbnb/listings.csv`, `dados-airbnb/reviews.csv`: Os conjuntos de dados que eu usei para este projeto.
-- `README.md`: Este arquivo, uma descrição do projeto.
 
 ## Como Interagir com o Projeto
 
@@ -37,8 +45,4 @@ Para interagir com o projeto, você precisará seguir os seguintes passos:
 
 ## Donos/Agradecimentos
 
-Este projeto foi criado por *seu nome*. Agradeço a *Inside Airbnb* por fornecer os dados para este projeto.
-
-## Contato
-
-Se você quiser entrar em contato comigo, pode me enviar um e-mail para *seu endereço de e-mail* ou me seguir no [Twitter](https://twitter.com/seu_usuario_no_twitter).
+Este projeto foi criado por mim. Agradeço a *Inside Airbnb* por  fornecer os dados para este projeto.
