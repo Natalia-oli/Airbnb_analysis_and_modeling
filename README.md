@@ -1,4 +1,4 @@
-# Airbnb
+# Airbnb TESTE
 Airbnb is a renowned platform that allows homeowners and apartment owners to offer their properties for short-term stays to guests. With its convenience and flexibility, it has become a preferred option among travelers. In this article, we will delve into the Airbnb Seattle dataset and address three key business questions mentioned below;
 Q1: In which months does price variation usually occur? and at what times do prices remain constant?<br/>
 Q2: Where are most of the accommodations concentrated in price variations? <br/>
